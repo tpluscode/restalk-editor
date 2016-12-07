@@ -31,6 +31,6 @@ To become a design tools it would be necessary to create
 2. [Implement diagram generation][issue-generation]
 3. [Implement visual editor][issue-editor]
 
-[issue-design]: https://github.com//tpluscode/restalk-editor/issues/1
-[issue-generation]: https://github.com//tpluscode/restalk-editor/issues/2
-[issue-editor]: https://github.com//tpluscode/restalk-editor/issues/3
+[issue-design]: https://github.com/tpluscode/restalk-editor/issues/1
+[issue-generation]: https://github.com/tpluscode/restalk-editor/issues/2
+[issue-editor]: https://github.com/tpluscode/restalk-editor/issues/3
